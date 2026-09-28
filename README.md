@@ -4,7 +4,7 @@ A simple college website created using **HTML and CSS**.
 
 ## 🌐 Live Website
 
-🔗 [**View NIST University Website**](YOUR-NETLIFY-LINK)
+🔗 [**View NIST University Website**](https://nist-university-web-page.vercel.app)
 
 ## 📌 About the Project
 
